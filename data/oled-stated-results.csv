@@ -1,0 +1,15 @@
+# Source: Kopp, M. B. Printable Organic Light-Emitting Diodes for Transparent Display and Visualized Sensing. Unpublished manuscript (2026), Maximilian B. Kopp.
+# Performance numbers stated in the abstract and in section 5 (Device Characterization and Performance Results).
+# Only values that appear in the prose are recorded. No numerical results table is printed in the manuscript.
+# Photograph and schematic values were not digitized.
+quantity,value,unit,section,notes
+maximum_luminance,>2350,cd/m2,abstract and 5.1,Abstract: functional brightness (>2350 cd/m²). Section 5.1: Maximum luminance exceeds 2350 cd/m² under optimized driving conditions.
+humidity_response_range,30-90,% RH,"abstract, 3.2, and 5.2",Abstract and section 5.2: 30% to 90% RH (also 30–90% RH). Alternative hypothesis (3.2) uses the same range.
+humidity_sensitivity,up to 52,percent,5.2,"Quoted: “The sensitivity, defined as the relative change in intensity per unit RH change, reaches up to 52%.”"
+luminance_retained_at_90_deg_bend,>85,percent of initial luminance,5.1,Quoted: “The devices retain over 85% of their initial luminance when bent to a 90° curvature radius.”
+bending_curvature,90,deg,5.1,Stated as a 90° curvature radius. No radius length in millimeters is given.
+bending_cycles_stable,>200,cycles,5.1,Quoted: “Performance remains stable over repeated bending cycles (>200 cycles).”
+interactive_wetting_dewetting_cycles_tested,2000,cycles,5.3,"Quoted: “stable over thousands of wetting-dewetting cycles (up to 2,000 cycles tested).”"
+functional_layer_uniformity_scale,centimeter-scale,,5.1,Quoted: “good thickness uniformity across centimeter-scale areas.” No numerical thickness or uniformity percentage is given.
+optical_transparency,high optical transparency in the off-state,,abstract and 5.1,No numerical transmittance is stated.
+electrode_spacing,0.5,mm,3.2 and 4.2,Repeated here because it is also treated as an optimized structural parameter in the alternative hypothesis.

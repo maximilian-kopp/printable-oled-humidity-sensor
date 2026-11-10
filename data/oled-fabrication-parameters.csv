@@ -1,0 +1,31 @@
+# Source: Kopp, M. B. Printable Organic Light-Emitting Diodes for Transparent Display and Visualized Sensing. Unpublished manuscript (2026), Maximilian B. Kopp.
+# Process parameters stated in section 4.2, Hybrid Manufacturing Process Innovation.
+# Materials named with “e.g.” are recorded as given in the manuscript and are not identified as a confirmed vendor lot.
+# The printer is stated as “An Epson R230 piezoelectric inkjet printer or equivalent.”
+# No numerical process table is printed; these rows transcribe the prose.
+step,parameter,value,unit,section,notes
+substrate preparation,cleaning_sequence,"acetone then isopropyl alcohol in an ultrasonic bath, then dried with nitrogen",,4.2,Flexible PET substrates
+bottom electrode patterning,method,inkjet printing,,4.2,drop-on-demand
+bottom electrode patterning,printer,Epson R230 piezoelectric inkjet printer or equivalent,,4.2,
+bottom electrode patterning,ink,"silver nano-particle ink (e.g., Mitsubishi Paper Mills)",,4.2,forms a cross-finger electrode array
+bottom electrode patterning,nozzle_diameter,30-90,um,4.2,stated as a key optimized parameter range
+bottom electrode patterning,printing_speed,1-2,mm/s,4.2,stated as a key optimized parameter range
+bottom electrode patterning,curing_temperature,80-120,deg_C,4.2,for 30 min
+bottom electrode patterning,curing_time,30,min,4.2,at 80-120 deg_C
+bottom electrode patterning,electrode_spacing,0.5,mm,4.2,also stated in the alternative hypothesis (section 3.2) as a cross-finger electrode array with 0.5 mm spacing
+dielectric layer,method,blade coating,,4.2,precision blade coater
+dielectric layer,ink,"dielectric ink (e.g., LUMI-DE10U)",,4.2,
+dielectric layer,blade_height,150-200,um,4.2,
+dielectric layer,coating_speed,5,mm/s,4.2,
+dielectric layer,curing_temperature,120,deg_C,4.2,"curing profile 120 deg_C, 30 min"
+dielectric layer,curing_time,30,min,4.2,
+emitting layer,method,blade coating,,4.2,
+emitting layer,ink,"organic electroluminescent ink (e.g., LUMI-AB50S)",,4.2,
+emitting layer,blade_height,100-150,um,4.2,
+emitting layer,coating_speed,5,mm/s,4.2,
+emitting layer,annealing_temperature,120,deg_C,4.2,"annealing 120 deg_C, 30 min"
+emitting layer,annealing_time,30,min,4.2,
+humidity-interactive layer,method,blade coating,,4.2,
+humidity-interactive layer,ink,"functional humidity-responsive ink (e.g., LUMI-MW10B)",,4.2,
+humidity-interactive layer,drying_temperature,100,deg_C,4.2,dried at 100 deg_C for 10 min
+humidity-interactive layer,drying_time,10,min,4.2,
