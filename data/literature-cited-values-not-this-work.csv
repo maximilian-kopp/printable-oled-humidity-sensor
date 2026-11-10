@@ -1,0 +1,12 @@
+# Source: Kopp, M. B. Printable Organic Light-Emitting Diodes for Transparent Display and Visualized Sensing. Unpublished manuscript (2026), Maximilian B. Kopp.
+# Numbers below are attributed in the literature review (section 2) to other authors' papers.
+# They are not results of this manuscript's devices and must not be cited as this work.
+# Reference numbers follow the manuscript's reference list.
+cited_work,quantity,value,unit,manuscript_section,manuscript_reference
+Sekitani et al. (manuscript gives 2008 in the prose; reference [14] is 2009),stretchability of printable elastic conductor,over 100,percent,2.1,[14]
+Sonoyama et al. (2012),efficiency of inkjet-printed phosphorescent OLED (green),22,cd/A,2.1,[15]
+Cinquino et al. (2024),current efficiency on ITO,up to 20,cd/A,2.3,[18]
+Su et al. (2022),fully functional OLED array size,8x8,array,2.3,[19]
+Research presented in 2021 on intrinsically stretchable OLED,operation under strain,80,percent strain,2.4,[20]
+Zhang et al. (2023),stretchability,200,percent strain,2.4,[21]
+Kant et al. (2023),printed emissive-layer area,6400,mm2,2.5,[22]

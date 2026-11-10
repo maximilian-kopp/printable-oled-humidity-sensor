@@ -1,0 +1,8 @@
+# Source: Kopp, M. B. Printable Organic Light-Emitting Diodes for Transparent Display and Visualized Sensing. Unpublished manuscript (2026), Maximilian B. Kopp.
+# Market figures appear only in section 6 (Application Scenarios and Market Prospect Analysis).
+# They are projections or industry figures as written in the manuscript, not measurements from the printed devices.
+# They are included so that every number stated in the manuscript is transcribed, and are not device results.
+quantity,value,unit,section,notes
+automotive_display_market_projection,exceed $18 billion by 2027,USD,6.1,"Quoted: “The automotive display market is projected to exceed $18 billion by 2027.” Citations [2, 23] in the manuscript."
+smart_packaging_market_CAGR,over 12,percent,6.2,Quoted: “The smart packaging market is growing at a CAGR of over 12%.”
+wearable_display_market_forecast,reach $6 billion by 2026,USD,6.3,"Quoted: “The wearable display market is forecast to reach $6 billion by 2026.” Citations [20, 21] in the manuscript."

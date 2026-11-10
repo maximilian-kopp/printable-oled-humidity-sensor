@@ -1,0 +1,11 @@
+# Source: Kopp, M. B. Printable Organic Light-Emitting Diodes for Transparent Display and Visualized Sensing. Unpublished manuscript (2026), Maximilian B. Kopp.
+# Layer stack as stated in the abstract and in section 4.1 (Device Architecture and Operating Principle).
+# The abstract writes: PET substrate / silver nano-particle electrodes / dielectric layer / emitting layer / humidity-responsive interaction layer.
+# Section 4.1 writes: PET substrate / inkjet-printed silver nano-particle interdigitated electrodes / blade-coated dielectric layer / blade-coated organic emitting layer / blade-coated humidity-responsive interactive layer.
+# These are the author's stated architecture, not measurements.
+order_from_substrate,layer,deposition_as_stated,example_material_as_stated,section
+1,PET substrate,cleaned; see fabrication parameters,flexible PET,4.1 / 4.2
+2,silver nano-particle interdigitated (cross-finger) electrodes,inkjet printed,"silver nano-particle ink (e.g., Mitsubishi Paper Mills)",4.1 / 4.2
+3,dielectric layer,blade coated,"dielectric ink (e.g., LUMI-DE10U)",4.1 / 4.2
+4,organic emitting layer,blade coated,"organic electroluminescent ink (e.g., LUMI-AB50S)",4.1 / 4.2
+5,humidity-responsive interactive layer,blade coated,"humidity-responsive ink (e.g., LUMI-MW10B)",4.1 / 4.2
